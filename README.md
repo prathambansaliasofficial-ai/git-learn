@@ -1,18 +1,16 @@
 # git-learn
 
-This is my personal **Git and GitHub learning repository**. I created it while learning the basics of version control: making commits, pushing local changes, pulling remote changes, and understanding how a local repository stays in sync with GitHub.
+A personal repository created while learning the fundamentals of Git and GitHub: committing, pushing, pulling and keeping a local repository in sync with a remote.
 
-## Why I am keeping it
+## Purpose
 
-This repository is a small milestone archive — my Git **"Hello, World!"**. The file named `one` is my first practice file, and the commit history captures my early experiments with Git, including making changes locally and on GitHub and syncing them.
+This repository is retained as a record of early practice with version control. It is intentionally minimal and is not an application.
 
-I am keeping it as a benchmark of where I started. It is intentionally simple; it is not meant to be a polished application or an actively developed software project.
+## Contents
 
-## What is inside
+- `one`: the first practice file, containing learning notes and test changes.
+- Commit history: records early experiments with committing, pushing, pulling and syncing changes made locally and on GitHub.
 
-- `one` — my first practice file, with the original learning notes and test changes.
-- Git history — the commits that record my first steps with committing, pushing, pulling, and syncing.
+## Usage
 
-## Run it
-
-Nothing to install or run. This repository exists to preserve the learning exercise and its history.
+Nothing to install or run.
